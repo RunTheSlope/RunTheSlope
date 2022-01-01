@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunTheSlope
 - 👀 I’m interested in Block chain & smart contract technology
-- 🌱 I’m currently learning  Block chain & smart contract technology
+- 🌱 I’m currently learning solidity, Block chain & smart contract 
 - 💞️ I’m looking to collaborate on developing 
 - 📫 How to reach me - DM or by email
 
